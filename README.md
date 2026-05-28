@@ -4,7 +4,9 @@
 如果大家有什么建议，可以发邮件到：1686037662@qq.com
 
 给大家推荐一个中转站和一个代理站，个人认为比较好用，而且相对比较便宜。
+
 中转站（35/1亿token,买的多的话更便宜）：https://foxcode.rjj.cc/auth/register?aff=L59K15
+
 代理站（1.5/月/100G，2.99/月/500G）：https://dash.pqjc.site/register?code=O9hFIb1u&cover=sfw
 
 大家如果觉得本仓库对您有帮助的话，可以帮作者回回血。（🥺）
