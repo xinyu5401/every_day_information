@@ -14,4 +14,4 @@
 
 大家如果觉得本仓库对您有帮助的话，可以帮作者回回血。（🥺）
 
-<img width="500" height="500" alt="615fce3647d465fc6d85a5e1826116a7" src="https://github.com/user-attachments/assets/42cb0775-0f71-4f53-b3df-2e8db2b4a9d8" />
+<img width="500" height="400" alt="615fce3647d465fc6d85a5e1826116a7" src="https://github.com/user-attachments/assets/42cb0775-0f71-4f53-b3df-2e8db2b4a9d8" />
