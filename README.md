@@ -7,5 +7,5 @@
 中转站（35/1亿token,买的多的话更便宜）：https://foxcode.rjj.cc/auth/register?aff=L59K15
 代理站（1.5/月/100G，2.99/月/500G）：https://dash.pqjc.site/register?code=O9hFIb1u&cover=sfw
 
-大家如果觉得本仓库对您有帮助的话，可以帮作者回回血。（token和服务器还是好贵🥺）
+大家如果觉得本仓库对您有帮助的话，可以帮作者回回血。（🥺）
 ![Uploading 615fce3647d465fc6d85a5e1826116a7.jpg…]()
