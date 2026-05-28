@@ -1,4 +1,4 @@
-<img width="1206" height="1206" alt="615fce3647d465fc6d85a5e1826116a7" src="https://github.com/user-attachments/assets/42cb0775-0f71-4f53-b3df-2e8db2b4a9d8" />本仓库每日更新的信息文档，均由 AI 大模型（GPT-5.5） 自动搜集、整理并生成。每天早上八点开始任务，整理并发布。
+本仓库每日更新的信息文档，均由 AI 大模型（GPT-5.5） 自动搜集、整理并生成。每天早上八点开始任务，整理并发布。
 虽然我们在生成过程中会尽量保留相关的信息来源以供查证，但受限于 AI 技术本身的特性，内容可能存在不准确、过时或“AI幻觉”（即看似合理但实际错误的信息）的情况。
 请大家在参考或使用相关信息时，务必保持审慎，并仔细甄别和交叉验证。 本仓库内容仅供参考，不构成任何专业建议。
 如果大家有什么建议，可以发邮件到：1686037662@qq.com
@@ -8,3 +8,4 @@
 代理站（1.5/月/100G，2.99/月/500G）：https://dash.pqjc.site/register?code=O9hFIb1u&cover=sfw
 
 大家如果觉得本仓库对您有帮助的话，可以帮作者回回血。（🥺）
+<img width="1206" height="1206" alt="615fce3647d465fc6d85a5e1826116a7" src="https://github.com/user-attachments/assets/42cb0775-0f71-4f53-b3df-2e8db2b4a9d8" />
